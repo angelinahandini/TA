@@ -1577,8 +1577,8 @@
         <mxCell id="oIML20XSxgXdqPnsTCAv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-2" source="oIML20XSxgXdqPnsTCAv-4" target="oIML20XSxgXdqPnsTCAv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oIML20XSxgXdqPnsTCAv-4" value="Menerima estimasi waktu ,&lt;br&gt;biaya yang diperlukan" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeWidth=2;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-2" vertex="1">
-          <mxGeometry x="42.5" y="219" width="100" height="60" as="geometry" />
+        <mxCell id="oIML20XSxgXdqPnsTCAv-4" value="Menerima estimasi waktu ,&lt;br&gt;biaya&amp;nbsp;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeWidth=2;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-2" vertex="1">
+          <mxGeometry x="42.5" y="219" width="107.5" height="61" as="geometry" />
         </mxCell>
         <mxCell id="oIML20XSxgXdqPnsTCAv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-2" source="oIML20XSxgXdqPnsTCAv-6" target="jF7IRT8qprifWWD5O9rB-87" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1659,7 +1659,7 @@
         <mxCell id="oIML20XSxgXdqPnsTCAv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-31" source="jF7IRT8qprifWWD5O9rB-93" target="oIML20XSxgXdqPnsTCAv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jF7IRT8qprifWWD5O9rB-93" value="Menghitung estimasi waktu ,biaya yang diperlukan" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeWidth=2;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-31" vertex="1">
+        <mxCell id="jF7IRT8qprifWWD5O9rB-93" value="Menghitung estimasi waktu biaya" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeWidth=2;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-31" vertex="1">
           <mxGeometry x="57.5" y="89" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oIML20XSxgXdqPnsTCAv-1" value="2" style="ellipse;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-31" vertex="1">
@@ -1776,7 +1776,7 @@
         <mxCell id="EF0ScpAiNH-7M8VniCFo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-62" source="EF0ScpAiNH-7M8VniCFo-9" target="EF0ScpAiNH-7M8VniCFo-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EF0ScpAiNH-7M8VniCFo-9" value="Proses pembuatan kue berdasarkan &lt;br style=&quot;font-size: 12px;&quot;&gt;salinan nota &lt;br style=&quot;font-size: 12px;&quot;&gt;pembelian" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeWidth=2;fontSize=12;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-62" vertex="1">
+        <mxCell id="EF0ScpAiNH-7M8VniCFo-9" value="Proses membuat pesanan" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeWidth=2;fontSize=12;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-62" vertex="1">
           <mxGeometry x="33.75" y="169" width="107.5" height="71" as="geometry" />
         </mxCell>
         <mxCell id="jF7IRT8qprifWWD5O9rB-73" value="Pemilik" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;" parent="jF7IRT8qprifWWD5O9rB-1" vertex="1">
