@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T15:20:23.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="r94TFqu3hgI36vM6Ff8f" version="21.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-01T15:23:44.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kb1vLPPfVzBkHs5XMRQA" version="21.2.1" type="github" pages="10">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -965,7 +965,7 @@
         <mxCell id="X08hP88sQX_gq4XoRqTI-1" value="Menerima nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
           <mxGeometry x="120" y="40" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vOp3Ritc3LpekKANZCRU-3" value="Melakukan pembayaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
+        <mxCell id="vOp3Ritc3LpekKANZCRU-3" value="Pembayaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
           <mxGeometry x="100" y="80" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0DbqwMRJzaLghCiIAKj6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" source="9R5FPf8MtTGHm9kLcWsb-1" target="zxVAgvQ7L6USB_2qHbtr-1" edge="1">
@@ -974,7 +974,7 @@
         <mxCell id="9R5FPf8MtTGHm9kLcWsb-1" value="Admin" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
           <mxGeometry x="520" y="204" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0DbqwMRJzaLghCiIAKj6-2" value="Membuatkan nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
+        <mxCell id="0DbqwMRJzaLghCiIAKj6-2" value="Nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
           <mxGeometry x="420" y="80" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpRlvBJD_-JEARBaZI8G-1" value="2&lt;br&gt;Pembuatan Produk" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
@@ -986,7 +986,7 @@
         <mxCell id="QpRlvBJD_-JEARBaZI8G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" source="9R5FPf8MtTGHm9kLcWsb-1" target="QpRlvBJD_-JEARBaZI8G-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QpRlvBJD_-JEARBaZI8G-3" value="Mengirimkan salinan nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
+        <mxCell id="QpRlvBJD_-JEARBaZI8G-3" value="Salinan nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
           <mxGeometry x="390" y="194" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oPc9o0nNx60HDYykQixd-1" value="Produksi" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
@@ -995,7 +995,7 @@
         <mxCell id="oPc9o0nNx60HDYykQixd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" source="QpRlvBJD_-JEARBaZI8G-1" target="oPc9o0nNx60HDYykQixd-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oPc9o0nNx60HDYykQixd-3" value="Menerima salinan nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
+        <mxCell id="oPc9o0nNx60HDYykQixd-3" value="Salinan nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
           <mxGeometry x="115" y="194" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2EiWIpONUHVeC6WbmwMd-1" value="3&lt;br&gt;Pembuatan laporan penjualan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
@@ -1025,13 +1025,13 @@
             <mxPoint x="259" y="352" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YKZqBJ0CbgtzvjE2sYhv-2" value="Membuat laporan penjualan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
+        <mxCell id="YKZqBJ0CbgtzvjE2sYhv-2" value="Laporan penjualan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
           <mxGeometry x="370" y="350" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kpohpKcF-yYyGnYKViqO-2" value="Menerima laporan penjualan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
+        <mxCell id="kpohpKcF-yYyGnYKViqO-2" value="Laporan penjualan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
           <mxGeometry x="114" y="312" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZX2GE5MhJ_GFm_nO1pzX-1" value="Mengirim salinan laporan penjualan&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
+        <mxCell id="ZX2GE5MhJ_GFm_nO1pzX-1" value="Laporan penjualan&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="buoXXnsQZjTGONO-KxQT-1" vertex="1">
           <mxGeometry x="105" y="392" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dx2yTI90x4LwcobjXKN8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="buoXXnsQZjTGONO-KxQT-1" edge="1">
