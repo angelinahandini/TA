@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T15:14:07.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mObU2jJLTMwtBM_K2OV3" version="21.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-01T15:20:23.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="r94TFqu3hgI36vM6Ff8f" version="21.2.1" type="github" pages="10">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -878,11 +878,11 @@
         <mxCell id="UKUEXINbOWqHstOdbQ1q-1" value="Admin" style="whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;" parent="CGBYTT7z0SVNcC9wWBgy-1" vertex="1">
           <mxGeometry x="470" y="150" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w3vlaETihT2e1eKBgIDV-2" value="&amp;nbsp;Membuatkan nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="CGBYTT7z0SVNcC9wWBgy-1" vertex="1">
+        <mxCell id="w3vlaETihT2e1eKBgIDV-2" value="&amp;nbsp;Nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="CGBYTT7z0SVNcC9wWBgy-1" vertex="1">
           <mxGeometry x="370" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jxf0B6dec9e0M2as_e7P-2" value="Laporan penjualan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="CGBYTT7z0SVNcC9wWBgy-1" vertex="1">
-          <mxGeometry x="370" y="170" width="90" height="30" as="geometry" />
+          <mxGeometry x="365" y="170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GWVj3sarnMMhTYz3FYBp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="CGBYTT7z0SVNcC9wWBgy-1" source="69sW7_HlBFRcQRNrZprx-1" target="OeqJqVS8cYA3hYIh4lgr-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
