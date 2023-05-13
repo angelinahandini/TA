@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T14:55:14.081Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uwv8YFBhSbZk1wP8K5_f" version="21.3.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-13T14:57:13.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XF_CFYhnrqfz12ntpjBe" version="21.2.9" type="github" pages="12">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3219,7 +3219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d1dKV29eJmOGK1TtQRvO" name="Flowcart">
-    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3249,8 +3249,8 @@
         <mxCell id="2vpZsBvdzXWfBrX-nJNn-8" value="Login" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2vpZsBvdzXWfBrX-nJNn-11" value="T" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="218.32999999999998" y="180" width="20" height="30" as="geometry" />
+        <mxCell id="2vpZsBvdzXWfBrX-nJNn-11" value="Tidak" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="38.33" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGLoSoNIZ9CFb-8uWqk_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="2vpZsBvdzXWfBrX-nJNn-14" target="sGLoSoNIZ9CFb-8uWqk_-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3258,8 +3258,8 @@
         <mxCell id="2vpZsBvdzXWfBrX-nJNn-14" value="Menu Utama" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="90" y="280" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2vpZsBvdzXWfBrX-nJNn-16" value="Y" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="158.32999999999998" y="250" width="20" height="30" as="geometry" />
+        <mxCell id="2vpZsBvdzXWfBrX-nJNn-16" value="Ya" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="158.33" y="250" width="21.67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGLoSoNIZ9CFb-8uWqk_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="sGLoSoNIZ9CFb-8uWqk_-1" target="sGLoSoNIZ9CFb-8uWqk_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
