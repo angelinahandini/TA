@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T16:51:03.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="re05RV-Je2JXY-PawLpR" version="21.3.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-06-08T17:03:37.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vbyJQ5FxlaePljr-rdtQ" version="21.3.2" type="github" pages="16">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3713,7 +3713,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KdWTJs6dNdtCErob07_N-49" value="Detail Transaksi" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="65" width="180" height="230" as="geometry" />
+          <mxGeometry x="570" y="60" width="180" height="230" as="geometry" />
         </mxCell>
         <mxCell id="KdWTJs6dNdtCErob07_N-50" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="KdWTJs6dNdtCErob07_N-49" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -4788,7 +4788,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AxyvS3BCix1IzT7zchR" name="Halaman-16">
-    <mxGraphModel dx="672" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
