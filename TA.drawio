@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T07:37:28.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BcxzWxk6nR5QXWlK8g-d" version="21.3.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-08T07:41:35.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cFgpvMF8itqkbid5zZJS" version="21.3.4" type="github" pages="15">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3749,7 +3749,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="26PpJ8scqXz50Zdqn25t" name="Halaman-14">
-    <mxGraphModel dx="789" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4173,17 +4173,17 @@
             <mxRectangle width="146" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-91" value="Angel" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-89">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-91" value="Angelina" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-89">
           <mxGeometry x="146" width="144" height="40" as="geometry">
             <mxRectangle width="144" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-92" value="Rasamala Utara IV 140" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-89">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-92" value="Banyumanik" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-89">
           <mxGeometry x="290" width="146" height="40" as="geometry">
             <mxRectangle width="146" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-93" value="+62 857-2923-9417" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-89">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-93" value="+6285745906362" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-89">
           <mxGeometry x="436" width="144" height="40" as="geometry">
             <mxRectangle width="144" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -4237,7 +4237,7 @@
             <mxRectangle width="144" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-105" value="56000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-101">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-105" value="140000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-101">
           <mxGeometry x="434" width="146" height="40" as="geometry">
             <mxRectangle width="146" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -4291,7 +4291,7 @@
             <mxRectangle width="146" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-117" value="112000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-113">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-117" value="150000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UdApiaIeKdw8yUilB5WB-113">
           <mxGeometry x="436" width="144" height="40" as="geometry">
             <mxRectangle width="144" height="40" as="alternateBounds" />
           </mxGeometry>
