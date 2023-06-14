@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T02:31:01.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vtzRt9s3Ka5_JimqFPZm" version="21.3.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-14T02:32:02.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="k_gxT-ZvIiFfAmCrWuun" version="21.3.7" type="github" pages="17">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5127,12 +5127,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nmoW0zhSNK7a4UME2XDg" name="Halaman-17">
-    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FPIF3P5kyQi0Ruhu17nW-1" value="Diagram Alir Dokumen Penjualan Sistem Baru" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="80" y="30" width="750" height="950" as="geometry" />
+          <mxGeometry x="39" y="30" width="750" height="950" as="geometry" />
         </mxCell>
         <mxCell id="FPIF3P5kyQi0Ruhu17nW-2" value="Pelanggan" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;" parent="FPIF3P5kyQi0Ruhu17nW-1" vertex="1">
           <mxGeometry y="20" width="185" height="930" as="geometry" />
