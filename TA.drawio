@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T02:34:19.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ySYBatIrfherjOv-BR7J" version="21.3.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-14T02:36:46.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="b1leexiVlRXCWPPu6XlE" version="21.3.7" type="github" pages="17">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2941,7 +2941,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zbyeoOPZQKGbz-wU0bGg" name="Struktur Prograam Menu">
-    <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3039,6 +3039,14 @@
             <Array as="points">
               <mxPoint x="350" y="265" />
               <mxPoint x="350" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OuiDhES7R-JqLEIKx-3E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="S6NqLqhd6JRIjVW4aiev-12" target="f3SSklChFTT8E7vMsxlz-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="265" />
+              <mxPoint x="350" y="395" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3152,7 +3160,7 @@
         <mxCell id="Fif_AZaF-nYkw1DH-FrV-25" value="Cetak" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="600" y="520" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f3SSklChFTT8E7vMsxlz-1" value="Pembayaran" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="f3SSklChFTT8E7vMsxlz-1" value="Pembayaran" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="360" y="370" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
