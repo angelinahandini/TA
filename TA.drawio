@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T03:54:16.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DclKvjbtbyFi1PR2H0Cc" version="21.3.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-14T03:54:33.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TUMxxK6c3lvzdWU-URnl" version="21.3.8" type="github" pages="17">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5138,7 +5138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nmoW0zhSNK7a4UME2XDg" name="Halaman-17">
-    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="352" dy="185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5207,7 +5207,7 @@
             <mxPoint x="91.03999999999996" y="650" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FPIF3P5kyQi0Ruhu17nW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="FPIF3P5kyQi0Ruhu17nW-2" target="FPIF3P5kyQi0Ruhu17nW-16" edge="1">
+        <mxCell id="FPIF3P5kyQi0Ruhu17nW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;exitX=0.521;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" parent="FPIF3P5kyQi0Ruhu17nW-2" target="FPIF3P5kyQi0Ruhu17nW-16" edge="1" source="FPIF3P5kyQi0Ruhu17nW-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="93" y="109" as="sourcePoint" />
           </mxGeometry>
