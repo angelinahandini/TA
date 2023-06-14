@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T04:21:02.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Jq_HPTmX2MzvkrG7uBIz" version="21.3.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-14T04:21:39.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Qy-8pgPrp7jDpuLUoqWY" version="21.3.8" type="github" pages="17">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5138,7 +5138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nmoW0zhSNK7a4UME2XDg" name="Halaman-17">
-    <mxGraphModel dx="2200" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5242,7 +5242,7 @@
         <mxCell id="FPIF3P5kyQi0Ruhu17nW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.498;exitY=0.861;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;" parent="FPIF3P5kyQi0Ruhu17nW-2" source="FPIF3P5kyQi0Ruhu17nW-19" target="FPIF3P5kyQi0Ruhu17nW-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FPIF3P5kyQi0Ruhu17nW-32" value="Mengunjungi&amp;nbsp;&lt;br&gt;Website" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeWidth=2;fontFamily=Times New Roman;fontColor=#ffffff;labelBackgroundColor=none;" parent="FPIF3P5kyQi0Ruhu17nW-2" vertex="1">
+        <mxCell id="FPIF3P5kyQi0Ruhu17nW-32" value="&lt;font color=&quot;#0d0101&quot;&gt;Mengunjungi&amp;nbsp;&lt;br&gt;Website&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeWidth=2;fontFamily=Times New Roman;fontColor=#ffffff;labelBackgroundColor=none;" parent="FPIF3P5kyQi0Ruhu17nW-2" vertex="1">
           <mxGeometry x="42.5" y="60" width="100" height="44" as="geometry" />
         </mxCell>
         <mxCell id="FPIF3P5kyQi0Ruhu17nW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="FPIF3P5kyQi0Ruhu17nW-2" edge="1">
