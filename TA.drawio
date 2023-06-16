@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T08:53:26.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1312YuQDKN6pu1igyptr" version="21.3.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-16T08:54:28.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dWWkiT2UZllwSBhI320k" version="21.3.8" type="github" pages="17">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3871,7 +3871,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="26PpJ8scqXz50Zdqn25t" name="Halaman-14">
-    <mxGraphModel dx="1354" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4471,7 +4471,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1AoeYzQ85aSpFY8Kt4K_" name="Halaman-15">
-    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4806,10 +4806,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dvGMQBf5E___p3K9U1GO-1" value="Diagram Alir Dokumen Penjualan Sistem Lama" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="dvGMQBf5E___p3K9U1GO-1" value="Diagram Alir Dokumen Penjualan Sistem Lama" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="70" y="30" width="750" height="1069" as="geometry" />
         </mxCell>
-        <mxCell id="dvGMQBf5E___p3K9U1GO-2" value="Pelanggan" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-1" vertex="1">
+        <mxCell id="dvGMQBf5E___p3K9U1GO-2" value="Pelanggan" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="dvGMQBf5E___p3K9U1GO-1" vertex="1">
           <mxGeometry y="20" width="185" height="1049" as="geometry" />
         </mxCell>
         <mxCell id="dvGMQBf5E___p3K9U1GO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="dvGMQBf5E___p3K9U1GO-2" edge="1">
@@ -4952,7 +4952,7 @@
         <mxCell id="dvGMQBf5E___p3K9U1GO-97" value="T" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;strokeWidth=2;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-2" vertex="1">
           <mxGeometry x="80.25" y="700" width="31" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dvGMQBf5E___p3K9U1GO-41" value="Admin" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-1" vertex="1">
+        <mxCell id="dvGMQBf5E___p3K9U1GO-41" value="Admin" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="dvGMQBf5E___p3K9U1GO-1" vertex="1">
           <mxGeometry x="185" y="20" width="215" height="1049" as="geometry" />
         </mxCell>
         <mxCell id="dvGMQBf5E___p3K9U1GO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-41" source="dvGMQBf5E___p3K9U1GO-43" target="dvGMQBf5E___p3K9U1GO-45" edge="1">
@@ -5058,7 +5058,7 @@
         <mxCell id="dvGMQBf5E___p3K9U1GO-98" value="5" style="ellipse;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-41" vertex="1">
           <mxGeometry x="53" y="749" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dvGMQBf5E___p3K9U1GO-73" value="Produksi" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-1" vertex="1">
+        <mxCell id="dvGMQBf5E___p3K9U1GO-73" value="Produksi" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="dvGMQBf5E___p3K9U1GO-1" vertex="1">
           <mxGeometry x="400" y="20" width="175" height="1049" as="geometry" />
         </mxCell>
         <mxCell id="dvGMQBf5E___p3K9U1GO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-73" source="dvGMQBf5E___p3K9U1GO-75" target="dvGMQBf5E___p3K9U1GO-78" edge="1">
@@ -5090,7 +5090,7 @@
         <mxCell id="dvGMQBf5E___p3K9U1GO-99" value="T" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;strokeWidth=2;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-73" vertex="1">
           <mxGeometry x="72" y="370" width="31" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dvGMQBf5E___p3K9U1GO-83" value="Pemilik" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-1" vertex="1">
+        <mxCell id="dvGMQBf5E___p3K9U1GO-83" value="Pemilik" style="swimlane;startSize=20;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="dvGMQBf5E___p3K9U1GO-1" vertex="1">
           <mxGeometry x="575" y="20" width="175" height="1049" as="geometry" />
         </mxCell>
         <mxCell id="dvGMQBf5E___p3K9U1GO-84" value="7" style="ellipse;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2;fontFamily=Times New Roman;" parent="dvGMQBf5E___p3K9U1GO-83" vertex="1">
