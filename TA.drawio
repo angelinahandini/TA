@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T09:03:37.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6gb1JQoW8eJ4yU5lZrYI" version="21.3.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-16T09:04:22.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2ZTMUzrMBH1iLVW8Coq6" version="21.3.8" type="github" pages="17">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3875,7 +3875,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UdApiaIeKdw8yUilB5WB-1" value="Bentuk Tidak Normal Penjualan" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-1" value="Bentuk Tidak Normal Penjualan" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="44" y="50" width="716" height="210" as="geometry" />
         </mxCell>
         <mxCell id="UdApiaIeKdw8yUilB5WB-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" parent="UdApiaIeKdw8yUilB5WB-1" vertex="1">
@@ -4068,7 +4068,7 @@
             <mxRectangle width="102" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-42" value="Bentuk Normal Pertama" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-42" value="Bentuk Normal Pertama" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="44" y="290" width="716" height="230" as="geometry" />
         </mxCell>
         <mxCell id="UdApiaIeKdw8yUilB5WB-43" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" parent="UdApiaIeKdw8yUilB5WB-42" vertex="1">
@@ -4261,7 +4261,7 @@
             <mxRectangle width="102" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-83" value="Bentuk Normal ke 2 Tabel Pelanggan" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-83" value="Bentuk Normal ke 2 Tabel Pelanggan" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="44" y="550" width="580" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UdApiaIeKdw8yUilB5WB-84" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" parent="UdApiaIeKdw8yUilB5WB-83" vertex="1">
@@ -4310,7 +4310,7 @@
             <mxRectangle width="144" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-94" value="Bentuk Normal ke 2 Tabel Produk" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-94" value="Bentuk Normal ke 2 Tabel Produk" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="44" y="690" width="724" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UdApiaIeKdw8yUilB5WB-95" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" parent="UdApiaIeKdw8yUilB5WB-94" vertex="1">
@@ -4369,7 +4369,7 @@
             <mxRectangle width="144" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-107" value="Bentuk Normal ke 2 Tabel Transaksi" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-107" value="Bentuk Normal ke 2 Tabel Transaksi" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="44" y="830" width="580" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UdApiaIeKdw8yUilB5WB-108" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" parent="UdApiaIeKdw8yUilB5WB-107" vertex="1">
@@ -4418,7 +4418,7 @@
             <mxRectangle width="144" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdApiaIeKdw8yUilB5WB-118" value="Bentuk Normal ke 2 Tabel Detail Transaksi" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="UdApiaIeKdw8yUilB5WB-118" value="Bentuk Normal ke 2 Tabel Detail Transaksi" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Times New Roman;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="44" y="970" width="580" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UdApiaIeKdw8yUilB5WB-119" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" parent="UdApiaIeKdw8yUilB5WB-118" vertex="1">
