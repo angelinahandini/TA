@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T09:47:15.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OCM407cuK0lGwgSvG5fd" version="21.5.0" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-06-20T09:51:14.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="clMcF6CjaWEyzgWyt_Hv" version="21.5.0" type="github" pages="22">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3503,7 +3503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0oBv0-CR63ddz7CGYFqW" name="Halaman-13">
-    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3894,8 +3894,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="26PpJ8scqXz50Zdqn25t" name="Halaman-14">
-    <mxGraphModel dx="897" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="26PpJ8scqXz50Zdqn25t" name="Normalisasi">
+    <mxGraphModel dx="1035" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4495,7 +4495,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1AoeYzQ85aSpFY8Kt4K_" name="ERD">
-    <mxGraphModel dx="897" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4825,7 +4825,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2AxyvS3BCix1IzT7zchR" name="Halaman-16">
+  <diagram id="2AxyvS3BCix1IzT7zchR" name="LAMA">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -5161,7 +5161,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="nmoW0zhSNK7a4UME2XDg" name="Halaman-17">
+  <diagram id="nmoW0zhSNK7a4UME2XDg" name="BARU">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
