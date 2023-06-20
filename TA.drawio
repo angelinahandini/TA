@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T10:06:59.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q0taL1cfpUEOdCLLOgAL" version="21.5.0" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-06-20T10:09:15.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="11sES4JNKZXJyVqqUHi6" version="21.5.0" type="github" pages="22">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3502,7 +3502,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0oBv0-CR63ddz7CGYFqW" name="Relasi antar tabel">
+  <diagram id="0oBv0-CR63ddz7CGYFqW" name="Relasi Revisi">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -3894,7 +3894,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="26PpJ8scqXz50Zdqn25t" name="Normalisasi">
+  <diagram id="26PpJ8scqXz50Zdqn25t" name="Normalisasi Revisi">
     <mxGraphModel dx="1035" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -4494,7 +4494,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="1AoeYzQ85aSpFY8Kt4K_" name="ERD">
+  <diagram id="1AoeYzQ85aSpFY8Kt4K_" name="ERD Revisi">
     <mxGraphModel dx="1257" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -4825,7 +4825,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2AxyvS3BCix1IzT7zchR" name="LAMA">
+  <diagram id="2AxyvS3BCix1IzT7zchR" name="Flowchart Lama Revisi">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -5161,7 +5161,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="nmoW0zhSNK7a4UME2XDg" name="BARU">
+  <diagram id="nmoW0zhSNK7a4UME2XDg" name="Flowchart Baru Revisi">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -6218,7 +6218,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="y8EsL8HYqKxI0Rqcn49S" name="DFD Level 1 Pendaftaran">
+  <diagram id="y8EsL8HYqKxI0Rqcn49S" name="DFD Level 1 Pendaftaran Revisi">
     <mxGraphModel dx="1035" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -6383,7 +6383,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zKyNOSg2Q4M31B6S0kdS" name="DFD Level 1 Penjualan">
+  <diagram id="zKyNOSg2Q4M31B6S0kdS" name="DFD Level 1 Penjualan Revisi">
     <mxGraphModel dx="1035" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -6718,7 +6718,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="l-dd_lWgFutfAOY-FqhE" name="DFD Level 1 Laporan">
+  <diagram id="l-dd_lWgFutfAOY-FqhE" name="DFD Level 1 Laporan Revisi">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
