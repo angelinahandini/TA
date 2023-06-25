@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T19:22:00.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uDIC61Y0Psqetmqe5j_1" version="21.5.0" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-06-25T11:26:45.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bsnMztWSA7oMRKfLIKA4" version="21.5.0" type="github" pages="22">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5160,7 +5160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nmoW0zhSNK7a4UME2XDg" name="Flowchart Baru Revisi">
-    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5369,7 +5369,7 @@
         <mxCell id="FPIF3P5kyQi0Ruhu17nW-59" value="" style="group;fontFamily=Times New Roman;" parent="FPIF3P5kyQi0Ruhu17nW-35" vertex="1" connectable="0">
           <mxGeometry x="42" y="759" width="81.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FPIF3P5kyQi0Ruhu17nW-60" value="Nota transaksi" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;arcSize=10;strokeWidth=2;fontFamily=Times New Roman;" parent="FPIF3P5kyQi0Ruhu17nW-59" vertex="1">
+        <mxCell id="FPIF3P5kyQi0Ruhu17nW-60" value="Laporan Transaksi" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;arcSize=10;strokeWidth=2;fontFamily=Times New Roman;" parent="FPIF3P5kyQi0Ruhu17nW-59" vertex="1">
           <mxGeometry width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FPIF3P5kyQi0Ruhu17nW-61" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="FPIF3P5kyQi0Ruhu17nW-59" vertex="1">
