@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T11:31:46.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="d8mVUk3_izFthXH2j8WO" version="21.5.0" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-06-25T11:36:47.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CyXzclJrTUTfFr0ys8Tb" version="21.5.0" type="github" pages="22">
   <diagram id="vZDnFSC2D1tyNz5heUoH" name="Struktur Organisasi">
     <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6646,9 +6646,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ltoXO1xJ0G51Dw4S1t9H-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="ltoXO1xJ0G51Dw4S1t9H-5" source="BEXOpR5zPGD9SWpmHP2l-4" target="uJWTIgqaBazGttt62Ds3-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uJWTIgqaBazGttt62Ds3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.609;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ltoXO1xJ0G51Dw4S1t9H-5" source="BEXOpR5zPGD9SWpmHP2l-2" target="uJWTIgqaBazGttt62Ds3-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -6726,9 +6723,6 @@
         </mxCell>
         <mxCell id="vyY0QeBneNjhtLqmJTbm-4" value="Informasi Transaksi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="ltoXO1xJ0G51Dw4S1t9H-5" vertex="1">
           <mxGeometry x="379" y="604" width="117.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ltoXO1xJ0G51Dw4S1t9H-2" value="Informasi Pelanggan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="ltoXO1xJ0G51Dw4S1t9H-5" vertex="1">
-          <mxGeometry x="379.5" y="630" width="117.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ltoXO1xJ0G51Dw4S1t9H-4" value="Informasi Transaksi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="ltoXO1xJ0G51Dw4S1t9H-5" vertex="1">
           <mxGeometry x="390" y="660" width="117.5" height="20" as="geometry" />
